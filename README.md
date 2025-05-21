@@ -24,8 +24,8 @@ Band X is a platform that simplifies and improves the last steps of IELTS prepar
 
 ### Drawing For a Book Publication
 I had participated in multiple compititions and won awards. Sometime in 2020 I had to draw some pictures which was for a book publication.
-![Drawing 01](/assets/img/drawing1.png)
-![Drawing 02](/assets/img/drawing2.png)
+![Drawing 01](/assets/img/drawing1.webp)
+![Drawing 02](/assets/img/drawing2.webp)
 
 ## Activities & Hobbies
 - Playing Football, Cricket
