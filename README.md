@@ -18,7 +18,10 @@ Shahjalal University of Science & Technology
 -  (_Nov 2023 - March 2025_)
 
 ## Projects
-### BandX
+### Band X
+Band X is a platform that simplifies and improves the last steps of IELTS preparation for candidates by providing an efficient online solution by Streamlining the mock test process to save valuable  TIME  and effort, enabling individuals to focus on productive learning and improvement.
+![Band X](/assets/img/bandx.png)
+
 ### Deem Paper
 
 
