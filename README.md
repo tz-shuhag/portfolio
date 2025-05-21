@@ -20,7 +20,7 @@
 ## Projects
 ### Band X
 Band X is a platform that simplifies and improves the last steps of IELTS preparation for candidates by providing an efficient online solution by Streamlining the mock test process to save valuable  TIME  and effort, enabling individuals to focus on productive learning and improvement.
-![Band X](/assets/img/bandx.png)
+![Band X](/assets/img/bandx.webp)
 
 ### Drawing For a Book Publication
 I had participated in multiple compititions and won awards. Sometime in 2020 I had to draw some pictures which was for a book publication.
