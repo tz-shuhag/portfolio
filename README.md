@@ -1,7 +1,6 @@
 # Student
 Shahjalal University of Science & Technology
-Dept. of Petroleum & Mining Engeenering
-Satrted in 2024
+- Dept. of Petroleum & Mining Engeenering (_2024 - Present_)
 
 #### Skills: Troubleshooting, System Building, Tech & IT Solution, Drawing, Mannagement
 
