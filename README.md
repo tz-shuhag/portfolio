@@ -1,12 +1,12 @@
 # Student
-Shahjalal University of Science & Technology
+**Shahjalal University of Science & Technology**
 - Dept. of Petroleum & Mining Engeenering (_2024 - Present_)
 
-#### Skills: Troubleshooting, System Building, Tech & IT Solution, Drawing, Mannagement
+#### Skills: Troubleshooting, App Building, Tech & IT Solution, ISP Service
 
 ## Education
-- SSC, Science | Border Guard Public School & College (_Dec 2020_)								       		
-- HSC, Science | Murari Chand College (_Feb 2023_)	 			        		
+- **SSC**, Science | Border Guard Public School & College (_Dec 2020_)								       		
+- **HSC**, Science | Murari Chand College (_Feb 2023_)	 			        		
 
 ## Work Experience
 **IT Project Manager**
@@ -26,4 +26,9 @@ Band X is a platform that simplifies and improves the last steps of IELTS prepar
 I had participated in multiple compititions and won awards. Sometime in 2020 I had to draw some pictures which was for a book publication.
 ![Drawing 01](/assets/img/drawing1.png)
 ![Drawing 02](/assets/img/drawing2.png)
+
+## Activities & Hobbies
+- Playing Football, Cricket
+- Reading Books & Analysis
+- Planning tours and vacations
 
