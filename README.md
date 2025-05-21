@@ -10,12 +10,15 @@ Shahjalal University of Science & Technology
 
 ## Work Experience
 **IT Project Manager**
-- TSC Express (_Feb 2023 - March 2024_)
+-  [TSC Express](https://www.tscexpressbd.com/)
+-  (_Feb 2023 - March 2024_)
 
 **Grammar Module Instructor**
-- Qul'Sai IELTS Academy (_Nov 2023 - March 2025_)
-  
+-  [Qul'Sai IELTS Academy](https://www.facebook.com/qulsai)
+-  (_Nov 2023 - March 2025_)
+
 ## Projects
 ### BandX
+### Deem Paper
 
 
