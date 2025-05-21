@@ -1,12 +1,22 @@
-# Student at Shahjalal University of Science & Technology
+# Student
+Shahjalal University of Science & Technology
+Dept. of Petroleum & Mining Engeenering
+Satrted in 2024
 
-### Education
-SSC
-Border Guard Public School & College
-### Work Experience
-IT Project Manager
-- Big Impact Project 1!
-- Big Impact Project 2!
+#### Skills: Troubleshooting, System Building, Tech & IT Solution, Drawing, Mannagement
 
-### Projects
-BandX
+## Education
+- SSC, Science | Border Guard Public School & College (_Dec 2020_)								       		
+- HSC, Science | Murari Chand College (_Feb 2023_)	 			        		
+
+## Work Experience
+**IT Project Manager**
+- TSC Express (_Feb 2023 - March 2024_)
+
+**Grammar Module Instructor**
+- Qul'Sai IELTS Academy (_Nov 2023 - March 2025_)
+  
+## Projects
+### BandX
+
+
