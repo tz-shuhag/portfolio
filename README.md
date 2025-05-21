@@ -22,6 +22,8 @@ Shahjalal University of Science & Technology
 Band X is a platform that simplifies and improves the last steps of IELTS preparation for candidates by providing an efficient online solution by Streamlining the mock test process to save valuable  TIME  and effort, enabling individuals to focus on productive learning and improvement.
 ![Band X](/assets/img/bandx.png)
 
-### Deem Paper
-
+### Drawing For a Book Publication
+I had participated in multiple compititions and won awards. Sometime in 2020 I had to draw some pictures which was for a book publication.
+![Drawing 01](/assets/img/drawing1.png)
+![Drawing 02](/assets/img/drawing2.png)
 
