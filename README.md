@@ -7,7 +7,7 @@
 - **HSC**, Science | Murari Chand College (_Feb 2023_)	 			        		
 
 ## Skills
-- Troubleshooting, App Building, Tech & IT Solution, ISP Service
+- **Troubleshooting, App Building, Tech & IT Solution, ISP Service**
 
 ## Work Experience
 **IT Project Manager**
