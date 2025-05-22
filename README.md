@@ -2,11 +2,12 @@
 **Shahjalal University of Science & Technology**
 - Dept. of Petroleum & Mining Engeenering (_2024 - Present_)
 
-#### Skills: Troubleshooting, App Building, Tech & IT Solution, ISP Service
-
 ## Education
 - **SSC**, Science | Border Guard Public School & College (_Dec 2020_)								       		
 - **HSC**, Science | Murari Chand College (_Feb 2023_)	 			        		
+
+## Skills
+- Troubleshooting, App Building, Tech & IT Solution, ISP Service
 
 ## Work Experience
 **IT Project Manager**
