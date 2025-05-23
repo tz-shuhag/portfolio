@@ -10,7 +10,6 @@ Student at **Shahjalal University of Science & Technology**
   <img alt="github-snake" src="https://raw.githubusercontent.com/tz-shuhag/tz-shuhag.github.io/refs/heads/output/github-snake.svg" />
 </picture>
 
-
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tz-shuhag&theme=dark&hide_border=false)<br/>
 
