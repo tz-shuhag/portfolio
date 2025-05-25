@@ -18,7 +18,11 @@ Student at **Shahjalal University of Science & Technology**
 - **HSC**, Science | Murari Chand College (_Feb 2023_)	 			        		
 
 ## 🎯 Skills
-- **Troubleshooting, App Building, Tech & IT Solution, ISP Service**
+- **Hardware & Software Troubleshooting**
+- **WiFi Setup & Speed Optimization (All ISPs)**
+- **Corporate DNS Configuration**
+- **OS Installation & Configuration**
+- **IT Product & Technology Mannagement**
 
 ## 📝 Work Experience
 **🖥️ IT Project Manager**
