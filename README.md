@@ -46,6 +46,7 @@ Band X is a platform that simplifies and improves the last steps of IELTS prepar
 Youtube Focus - Productive & Efficient
 A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
 This filter list also works with other content blockers, but I haven't looked into that (yet). For more details explore my Github repo.
+
 ![YTFocus](/assets/img/ytfocus.png)
 
 ### **Drawing For a Book Publication**
