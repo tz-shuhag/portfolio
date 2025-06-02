@@ -38,17 +38,17 @@ Student at **Shahjalal University of Science & Technology**
 -  (_Nov 2023 - March 2025_)
 
 ## ✨ Projects
-### Band X
+### **Band X**
 Band X is a platform that simplifies and improves the last steps of IELTS preparation for candidates by providing an efficient online solution by Streamlining the mock test process to save valuable  TIME  and effort, enabling individuals to focus on productive learning and improvement.
 ![Band X](/assets/img/bandx.webp)
 
-### [YTFocus](https://tz-shuhag.github.io/YTFocus/)
+### **[YTFocus](https://tz-shuhag.github.io/YTFocus/)**
 Youtube Focus - Productive & Efficient
 A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
 This filter list also works with other content blockers, but I haven't looked into that (yet). For more details explore my Github repo.
-![YTFocus](assests/img/ytfocus.png)
+![YTFocus](/assets/img/ytfocus.png)
 
-### Drawing For a Book Publication
+### **Drawing For a Book Publication**
 I had participated in multiple compititions and won awards. Sometime in 2020 I had to draw some pictures which was for a book publication.
 ![Drawing 01](/assets/img/drawing1.webp)
 ![Drawing 02](/assets/img/drawing2.webp)
