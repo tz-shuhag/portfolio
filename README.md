@@ -39,12 +39,18 @@ Student at **Shahjalal University of Science & Technology**
 
 ## ✨ Projects
 ### **Band X**
-Band X is a platform that simplifies and improves the last steps of IELTS preparation for candidates by providing an efficient online solution by Streamlining the mock test process to save valuable  TIME  and effort, enabling individuals to focus on productive learning and improvement.
+**Band X is a platform that simplifies and improves the last steps of IELTS preparation** for candidates by providing an efficient online solution by Streamlining the mock test process to save valuable  TIME  and effort, enabling individuals to focus on productive learning and improvement.
 ![Band X](/assets/img/bandx.webp)
 
+### **[HD.264](https://tz-shuhag.github.io/HD.264/)**
+**Optimize YouTube Playback – Save Battery & Boost Performance.**
+This Chrome extension forces YouTube to use the efficient H.264 video codec, helping reduce CPU and GPU usage — ideal for laptops, older hardware, or anyone looking to save and extent battery life. It also lets you set a default video quality, so you don’t have to adjust it manually every time you watch a video.
+
+![HD.264](/assets/img/hd.264.webp)
+
 ### **[YTFocus](https://tz-shuhag.github.io/YTFocus/)**
-Youtube Focus - Productive & Efficient
-A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
+**Youtube Focus - Be Productive & Efficient.**
+It's an [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube distractions in Feed and videos.
 This filter list also works with other content blockers, but I haven't looked into that (yet). For more details explore my Github repo.
 
 ![YTFocus](/assets/img/ytfocus.png)
