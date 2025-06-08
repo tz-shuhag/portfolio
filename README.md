@@ -55,6 +55,12 @@ This filter list also works with other content blockers, but I haven't looked in
 
 ![YTFocus](/assets/img/ytfocus.png)
 
+### **[YT-HD](https://tz-shuhag.github.io/YT-HD/)**
+**YouTube Default Video Quality**.
+A Chrome Manifest V3 extension that enhances your YouTube viewing experience by automatically setting the default video quality.
+
+![YT-HD](/assets/img/ythd.png)
+
 ### **Drawing For a Book Publication**
 I had participated in multiple compititions and won awards. Sometime in 2020 I had to draw some pictures which was for a book publication.
 ![Drawing 01](/assets/img/drawing1.webp)
