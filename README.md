@@ -74,11 +74,7 @@ I had participated in multiple compititions and won awards. Sometime in 2020 I h
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tzshuhag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tz-shuhag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tz__shuhag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzshuhag18@gmail.com) 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tz-shuhag.tz-shuhag&"  />
-</div>
-
-
+```
   _______ ______   _____ _           _                 
  |__   __|___  /  / ____| |         | |                
     | |     / /  | (___ | |__  _   _| |__   __ _  __ _ 
@@ -87,4 +83,8 @@ I had participated in multiple compititions and won awards. Sometime in 2020 I h
     |_|  /_____| |_____/|_| |_|\__,_|_| |_|\__,_|\__, |
                                                   __/ |
                                                  |___/ 
+```
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tz-shuhag.tz-shuhag&"  />
+</div>
