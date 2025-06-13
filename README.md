@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" />
 </h1>
 
 # 💫 About Me:
@@ -77,3 +77,14 @@ I had participated in multiple compititions and won awards. Sometime in 2020 I h
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tz-shuhag.tz-shuhag&"  />
 </div>
+
+
+  _______ ______   _____ _           _                 
+ |__   __|___  /  / ____| |         | |                
+    | |     / /  | (___ | |__  _   _| |__   __ _  __ _ 
+    | |    / /    \___ \| '_ \| | | | '_ \ / _` |/ _` |
+    | |   / /__   ____) | | | | |_| | | | | (_| | (_| |
+    |_|  /_____| |_____/|_| |_|\__,_|_| |_|\__,_|\__, |
+                                                  __/ |
+                                                 |___/ 
+
